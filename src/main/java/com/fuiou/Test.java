@@ -5,6 +5,7 @@ public class Test {
 	
 		System.out.println("主目录提交1");
 		System.out.println("从目录提交1");
+		System.out.println("从目录提交1_c");
 	}
 
 }
